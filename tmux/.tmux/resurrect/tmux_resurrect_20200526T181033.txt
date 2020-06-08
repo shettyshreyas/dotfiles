@@ -1,0 +1,6 @@
+pane	Mass_edit_improvement	1	:nvim	1	:*	1	:/Users/shreyas.shetty/headquarter	1	nvim	:-zsh
+pane	Mass_edit_improvement	1	:nvim	1	:*	2	:/Users/shreyas.shetty/headquarter	0	zsh	:-zsh
+pane	QC	1	:nvim	1	:*	1	:/Users/shreyas.shetty/go/src/shopee/deep/quality-control-clienttool	1	nvim	:-zsh
+window	Mass_edit_improvement	1	1	:*	db80,364x83,0,0[364x41,0,0,0,364x41,0,42,1]
+window	QC	1	1	:*	c240,364x83,0,0,3
+state	QC	Mass_edit_improvement

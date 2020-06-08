@@ -1,0 +1,3 @@
+pane	Update tmux	1	:zsh	1	:*	1	:/Users/shreyas.shetty	1	zsh	:-zsh
+window	Update tmux	1	1	:*	d63d,364x88,0,0,0
+state	Update tmux	
